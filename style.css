@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+.image-class{
+    width: 50%;
+    margin-left: 25%;
+}
+
+img{
+    margin-top: 40px;
+    border: 10px solid red;
+    width: 100%;
+}
+
+#heading{
+    font-family: 'Caveat', cursive;
+    color: white;
+    margin-left: 410px;
+}
+
+#paragraph{
+    color: white;
+    margin-left: 370px;
+}
+
+
